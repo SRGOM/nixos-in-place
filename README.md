@@ -6,7 +6,9 @@ nixos-in-place is known to work on Ubuntu, Debian, CentOS, Fedora, Arch, and
 Slackware, including x86 and x86_64 variants, with and without LVM, including
 systems on [Digital
 Ocean](https://github.com/jeaye/nixos-in-place#digital-ocean) droplets and
-[Hetzner Cloud](https://github.com/jeaye/nixos-in-place/issues/41)!
+[Hetzner Cloud](https://github.com/jeaye/nixos-in-place/issues/41)! 
+nixos-in-place, or any other similar script, CANNOT work with OpenVZ systems. 
+
 
 ## How to do it
 0. **BACKUP**
